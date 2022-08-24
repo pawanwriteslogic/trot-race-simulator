@@ -11,7 +11,7 @@ The environment variable file is already in the repository. I understand that su
 Go to the project directory
 
 ```
-  cd race-simulator
+  cd trot-race-simulator
 ```
 
 #### Install dependencies
